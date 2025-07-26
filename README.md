@@ -33,11 +33,11 @@ A sleek and functional **Todo application** built with **React**, **Hooks**, and
 
 cd react-todo
 
-4. Install dependencies
+3. Install dependencies
 
 npm install
 
-5. Start the development server
+4. Start the development server
 
 npm run dev
 

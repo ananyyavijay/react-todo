@@ -1,4 +1,44 @@
-# React + Vite
+# ✅ React Todo App
+
+A sleek and functional **Todo application** built with **React**, **Hooks**, and the **Context API**, styled beautifully using **Tailwind CSS**.
+
+---
+
+## 📌 Features
+
+- 🧠 Manage todos using `useContext` 
+- ✅ Mark tasks as complete/incomplete
+- 📝 Edit your todos inline
+- ➕ Add new todos
+- ❌ Remove tasks
+- 🌙 Clean UI with Tailwind CSS
+- ♻️ Real-time updates with state hooks
+
+---
+## 🛠️ Technologies Used
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- `useState`, `useEffect`, `useContext`
+- Context API for global todo state
+
+---
+## ⚙️ How to Run
+
+
+# 1. Clone the repo
+git clone [https://github.com/your-username/react-todo-app.git](https://github.com/ananyyavijay/react-todo.git)
+
+# 2. Navigate into the project
+cd react-todo
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+
+---
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

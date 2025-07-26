@@ -26,16 +26,16 @@ A sleek and functional **Todo application** built with **React**, **Hooks**, and
 ## ⚙️ How to Run
 
 
-# 1. Clone the repo
-git clone [https://github.com/your-username/react-todo-app.git](https://github.com/ananyyavijay/react-todo.git)
+1. Clone the repo
+git clone [https://github.com/your-username/react-todo.git](https://github.com/ananyyavijay/react-todo.git)
 
-# 2. Navigate into the project
+2. Navigate into the project
 cd react-todo
 
-# 3. Install dependencies
+3. Install dependencies
 npm install
 
-# 4. Start the development server
+4. Start the development server
 npm run dev
 
 ---
